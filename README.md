@@ -2,7 +2,7 @@
 
 This is a simple monitoring tool written in Go to check the status of various HTTP endpoints periodically.
 
-The expected status code is 200, but you can specify a different status code using the `-status-code` flag.
+The expected status code is 200 by default.
 
 ## Installation
 
