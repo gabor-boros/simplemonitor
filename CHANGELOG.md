@@ -6,6 +6,6 @@ All notable changes to this project will be documented in this file.
 
 **Features**
 
-- Initial commit ([fb22008](https://github.com/gabor-boros/simplemonitor/commit/fb22008c31c0883c96ebd7d7d239975f6b808449))
+- Initial commit ([6800f8c](https://github.com/gabor-boros/simplemonitor/commit/6800f8c0a8db7e82b6fed80e18ef214665b4bf73))
 
 
